@@ -53,8 +53,7 @@ class main {
                     System.out.println("your cost would be " + 14.99 * nb);
                 }
             } else {
-                System.out.print("ok");
-            }
+                System.out.print("ok");}
         }
     }
 }
